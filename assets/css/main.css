@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: rgb(29, 28, 28);
+		background: rgb(37, 37, 37);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2593,7 +2593,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/cloudy1.jpg");
+		background-image: url("images/overlay.png"), url("../../images/clouds.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -2640,7 +2640,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 12em;
 		}
 
 /* Footer */
@@ -3078,7 +3078,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+				background-image: url("images/overlay.png"), url("../../images/clouds.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
@@ -3208,8 +3208,7 @@ input, select, textarea {
 					display: none;
 				}
 
-		/* Footer */
-
+		/* Footer */	
 			#footer .copyright li {
 				border-left-width: 0;
 				display: block;
@@ -3219,3 +3218,5 @@ input, select, textarea {
 			}
 
 	}
+
+	
