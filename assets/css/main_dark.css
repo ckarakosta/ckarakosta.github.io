@@ -83,10 +83,6 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
-	}
-
-	.dark-mode {
 		background: #212121;
 	}
 
@@ -102,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #e0e0e0;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -139,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #9E9E9E;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -151,7 +147,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -2597,7 +2593,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/clouds.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -2644,16 +2640,8 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 12em;
+			width: 6.25em;
 		}
-
-		#header .icons {
-			margin: 1em 0 1em 0;
-		}
-	
-			#header .icons a {
-				color: rgba(255, 255, 255, 0.75);
-			}
 
 /* Footer */
 
@@ -3232,3 +3220,63 @@ input, select, textarea {
 
 	}
 
+	
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+	.container {
+		height: 100vh;
+		background: hsl(200, 75%, 65%);
+		transition: background 1.2s;
+	}
+	.container.dark {
+		background: hsl(200, 65%, 8%);
+	}
+	.container-icons-outer {
+		height: 120px;
+	}
+	.icon-container {
+		position: relative;
+	}
+	.icons {
+		--rotation: 0;
+		position: absolute;
+		left: calc(50% - 20px);
+		top: -117px;
+		margin: auto;
+		transition: 1.2s;
+		width: 40px;
+		text-align: center;
+		transform: rotate(calc(var(--rotation) * 1deg));
+	}
+	.icon {
+		font-size: 2em;
+		padding: 40px 0;
+		color: hsl(50, 85%, 55%);
+		transition: color 1.2s;
+	}
+	.dark .icon {
+		color: #ccc;
+	}
+	.icon1 {
+		transform: rotate(180deg);
+	}
+	
+	.btn-container {
+		text-align: center;
+	}
+	.swap-btn {
+		width: 120px;
+		margin: auto;
+		padding: 10px 20px;
+		background: #848484;
+		font-weight: bold;
+		border: none;
+		border-radius: 6px;
+		color: #eee;
+		outline: none;
+		cursor: pointer;
+		line-height: 1.5em;
+	}

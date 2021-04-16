@@ -13,12 +13,28 @@
 	</head>
 	<body class="is-preload">
 
+		<script>
+			function darkTheme() {
+				var element = document.body;
+				element.classList.toggle("dark-mode");
+			}
+		</script>
+
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
 					<a href="#" class="image avatar"><img src="images/christina.jpg" alt="" /></a>
 					<h1><strong>Christina Karakosta</strong></h1>
 					<h1>Ph.D. Candidate, Imperial College London</h1>
+				</div>
+				<div class="col-6 col-12-small">
+					<input
+					type="checkbox"
+					id="dark-theme"
+					name="dark-theme"
+					onclick="darkTheme()">
+					<div class=""></div>
+					<label for="dark-theme"><div class="fas fa-moon moonboi fa-2x"></div> Dark Mode</label>
 				</div>
 			</header>
 
