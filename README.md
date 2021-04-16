@@ -1,4 +1,4 @@
-<h3>My [Personal Portfolio Website](https://ckarakosta.github.io/), hosted through GitHub Pages.</h3>
+My [Personal Portfolio Website](https://ckarakosta.github.io) hosted through GitHub Pages.
 
 Free Website in 4 simple steps:
 
