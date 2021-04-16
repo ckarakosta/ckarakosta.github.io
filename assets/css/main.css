@@ -2485,7 +2485,6 @@ input, select, textarea {
 		input[type="reset"].icon,
 		input[type="button"].icon,
 		.button.icon {
-			left: 14em;
 			border:none;
 		}
 
