@@ -2485,6 +2485,7 @@ input, select, textarea {
 		input[type="reset"].icon,
 		input[type="button"].icon,
 		.button.icon {
+			left: 17em;
 			border:none;
 		}
 
@@ -2493,7 +2494,7 @@ input, select, textarea {
 			input[type="button"].icon:before,
 			.button.icon:before {
 				margin-right: 0.5em;
-				margin-top: 60px;
+				margin-top: 55px;
 			}
 
 		input[type="submit"].fit,
