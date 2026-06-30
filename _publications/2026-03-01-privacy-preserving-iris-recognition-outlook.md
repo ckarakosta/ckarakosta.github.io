@@ -10,4 +10,4 @@ paperurl: 'https://arxiv.org/abs/2603.26890'
 bibtexurl: ''
 citation: 'Karakosta, C., Alhedaithy, L., &amp; Knottenbelt, W. J. (2026). &quot;Privacy-preserving iris recognition: Performance challenges and outlook.&quot; <i>arXiv preprint arXiv:2603.26890</i>.'
 ---
-This work examines the performance challenges inherent to privacy-preserving iris recognition and outlines directions for making encrypted-domain biometric matching practical at scale.
+This work examines the performance challenges inherent to privacy-preserving iris recognition and outlines directions for making encrypted-domain biometric matching practical at scale. Presented at the 21st IFIP Summer School on Privacy and Identity Management (IFIPSC 2025).

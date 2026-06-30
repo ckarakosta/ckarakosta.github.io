@@ -4,8 +4,8 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2020-intro-machine-learning
 venue: "Imperial College London, Department of Computing"
-date: 2020-10-01
+date: Autumn term - Academic Year 2020-21
 location: "London, UK"
 ---
 
-Coursework Marker and Tutorial Helper for the postgraduate Introduction to Machine Learning module (COMP97101/97151), October–December 2020. Lecturers: Dr Marek Rei, Dr Josiah Wang, and Dr Antoine Cully.
+Coursework Marker and Tutorial Helper. Lecturers: Prof Lucia Specia and Dr Marek Rei.

@@ -1,11 +1,11 @@
 ---
-title: "Introduction to Machine Learning (COMP97101/97151)"
+title: "Principles of Finance"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2020-intro-machine-learning
-venue: "Imperial College London, Department of Computing"
-date: 2020-10-01
+permalink: https://www.imperial.ac.uk/business-school/masters/climate-change-management-finance/#programme-content
+venue: "Imperial College Business School"
+date: Autumn term - Academic Year 2022-2023
 location: "London, UK"
 ---
 
-Coursework Marker and Tutorial Helper for the postgraduate Introduction to Machine Learning module (COMP97101/97151), October–December 2020. Lecturers: Dr Marek Rei, Dr Josiah Wang, and Dr Antoine Cully.
+Final Exam Marker, Coursework Marker and Tutorial Helper.

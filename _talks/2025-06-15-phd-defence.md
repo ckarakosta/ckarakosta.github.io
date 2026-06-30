@@ -8,4 +8,4 @@ date: 2025-06-15
 location: "London, UK"
 ---
 
-Successfully defended my PhD thesis and passed with minor corrections. My doctoral research, supervised by Prof. William J. Knottenbelt, developed privacy-preserving iris recognition using fully homomorphic encryption.
+Successfully defended my PhD thesis on "Privacy-Preserving Iris Recognition: A Fully Homomorphic Encryption Framework with Candidate Filtering" and passed with minor corrections!
