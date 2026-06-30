@@ -4,8 +4,8 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2020-intro-machine-learning
 venue: "Imperial College London, Department of Computing"
-date: Autumn term - Academic Year 2020-21
+date: 2020-10-01
 location: "London, UK"
 ---
 
-Coursework Marker and Tutorial Helper. Lecturers: Prof Lucia Specia and Dr Marek Rei.
+Coursework Marker and Tutorial Helper. Autumn term - Academic Year 2020-21. Lecturers: Dr Marek Rei, Dr Josiah Wang, and Dr Antoine Cully.
