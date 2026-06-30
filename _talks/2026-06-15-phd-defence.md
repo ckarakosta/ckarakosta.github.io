@@ -4,7 +4,7 @@ collection: talks
 type: "Milestone"
 permalink: /talks/2025-06-15-phd-defence
 venue: "Imperial College London, Department of Computing"
-date: 2025-06-15
+date: 2026-06-15
 location: "London, UK"
 ---
 

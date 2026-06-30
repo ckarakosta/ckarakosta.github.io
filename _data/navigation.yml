@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /https://www.linkedin.com/in/christina-karakosta/
+    url: "/https://www.linkedin.com/in/christina-karakosta/"
     
   # - title: "Guide"
   #   url: /markdown/

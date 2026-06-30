@@ -24,4 +24,4 @@ Prior to my PhD, I completed a Master of Science (MSc) on Applied Economics and 
 
 Feel free to get in touch, my contact details are in the sidebar.
 
-[This website is currently under construction and will be updated frequently. Please check back soon!]
+[This website is currently under construction. Please check back soon!]
